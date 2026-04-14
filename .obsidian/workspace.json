@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "285fe1f6a6de8e71",
+        "id": "cb5f91f69e83bb40",
         "type": "tabs",
         "children": [
           {
-            "id": "33c0ae4935ed2d92",
+            "id": "7151d5c07a28a727",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,8 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33c0ae4935ed2d92",
+  "active": "7151d5c07a28a727",
   "lastOpenFiles": [
+    "GEMINI.md",
     "wiki/linux-user-management.md",
     "wiki/reverse-etl.md",
     "wiki/log.md",
@@ -201,7 +202,6 @@
     "wiki/linux-hostname.md",
     "wiki/linux-networking.md",
     "wiki/index.md",
-    "GEMINI.md",
     "raw/transcripts/linux-cheat-sheet.md",
     "wiki",
     "raw/transcripts",
