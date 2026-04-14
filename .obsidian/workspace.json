@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEMINI.md",
-                "mode": "source",
+                "file": "wiki/linux-process-management.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEMINI"
+              "title": "linux-process-management"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/linux-process-management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GEMINI"
+              "title": "Backlinks for linux-process-management"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/linux-process-management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GEMINI"
+              "title": "Outgoing links from linux-process-management"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/linux-process-management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GEMINI"
+              "title": "Outline of linux-process-management"
             }
           },
           {
@@ -176,11 +176,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,9 +196,15 @@
   },
   "active": "bbcdf2b218109d3d",
   "lastOpenFiles": [
-    "GEMINI.md",
-    "wiki/log.md",
+    "wiki/linux-networking.md",
+    "wiki/linux-hostname.md",
     "wiki/index.md",
+    "GEMINI.md",
+    "wiki/linux-user-management.md",
+    "wiki/linux-sudo.md",
+    "wiki/linux-process-management.md",
+    "raw/transcripts/linux-cheat-sheet.md",
+    "wiki/log.md",
     "wiki",
     "raw/articles",
     "raw/transcripts",
