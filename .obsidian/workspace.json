@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/log.md",
+                "file": "wiki/linux-hostname.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "linux-hostname"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/log.md",
+                "file": "wiki/linux-hostname.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for log"
+              "title": "Backlinks for linux-hostname"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/log.md",
+                "file": "wiki/linux-hostname.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from log"
+              "title": "Outgoing links from linux-hostname"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/log.md",
+                "file": "wiki/linux-hostname.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of log"
+              "title": "Outline of linux-hostname"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "bbcdf2b218109d3d",
   "lastOpenFiles": [
+    "wiki/log.md",
     "wiki/linux-user-management.md",
     "wiki/linux-sudo.md",
     "wiki/linux-process-management.md",
@@ -204,7 +205,6 @@
     "wiki/index.md",
     "GEMINI.md",
     "raw/transcripts/linux-cheat-sheet.md",
-    "wiki/log.md",
     "wiki",
     "raw/articles",
     "raw/transcripts",
