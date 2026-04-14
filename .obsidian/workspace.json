@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71342faddaa5d0d8",
+        "id": "285fe1f6a6de8e71",
         "type": "tabs",
         "children": [
           {
-            "id": "bbcdf2b218109d3d",
+            "id": "33c0ae4935ed2d92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/reverse-etl.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "reverse-etl"
+              "title": "New tab"
             }
           }
         ]
@@ -156,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/reverse-etl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of reverse-etl"
+              "title": "Outline"
             }
           },
           {
@@ -194,14 +189,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbcdf2b218109d3d",
+  "active": "33c0ae4935ed2d92",
   "lastOpenFiles": [
-    "wiki/log.md",
+    "wiki/linux-user-management.md",
     "wiki/reverse-etl.md",
+    "wiki/log.md",
     "raw/articles/reverse-etl.md",
     "raw/articles",
     "wiki/linux-process-management.md",
-    "wiki/linux-user-management.md",
     "wiki/linux-sudo.md",
     "wiki/linux-hostname.md",
     "wiki/linux-networking.md",
