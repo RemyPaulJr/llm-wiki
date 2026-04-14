@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/linux-user-management.md",
+                "file": "wiki/linux-process-management.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux-user-management"
+              "title": "linux-process-management"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/linux-user-management.md",
+                "file": "wiki/linux-process-management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for linux-user-management"
+              "title": "Backlinks for linux-process-management"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/linux-user-management.md",
+                "file": "wiki/linux-process-management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from linux-user-management"
+              "title": "Outgoing links from linux-process-management"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/linux-user-management.md",
+                "file": "wiki/linux-process-management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of linux-user-management"
+              "title": "Outline of linux-process-management"
             }
           },
           {
@@ -196,12 +196,12 @@
   },
   "active": "bbcdf2b218109d3d",
   "lastOpenFiles": [
+    "wiki/linux-user-management.md",
     "wiki/linux-sudo.md",
     "wiki/linux-process-management.md",
     "wiki/linux-networking.md",
     "wiki/linux-hostname.md",
     "wiki/log.md",
-    "wiki/linux-user-management.md",
     "wiki/index.md",
     "GEMINI.md",
     "raw/transcripts/linux-cheat-sheet.md",
