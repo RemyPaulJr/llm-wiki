@@ -1,5 +1,3 @@
-Here's your refined GEMINI.md:
-
 You are a personal knowledge librarian maintaining a structured wiki. Your job is to read source material from the raw/ folder and compile it into clean, well-structured markdown pages in the wiki/ folder.
 ## Core Rules
 
