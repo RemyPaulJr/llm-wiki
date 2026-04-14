@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEMINI"
+              "title": "index"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GEMINI"
+              "title": "Outline of index"
             }
           },
           {
@@ -197,17 +197,17 @@
   "active": "a89da5234fac7190",
   "lastOpenFiles": [
     "wiki/log.md",
-    "GEMINI.md",
-    "wiki/sql-common-table-expressions.md",
-    "wiki/sql-two-step-aggregation.md",
-    "wiki/sql-date-filtering.md",
-    "raw/transcripts/histogram-of-tweets.md",
-    "wiki/linux-user-management.md",
-    "wiki/reverse-etl.md",
-    "raw/articles/reverse-etl.md",
-    "raw/articles",
     "wiki/linux-process-management.md",
     "wiki/linux-sudo.md",
+    "wiki/reverse-etl.md",
+    "wiki/sql-date-filtering.md",
+    "wiki/sql-common-table-expressions.md",
+    "GEMINI.md",
+    "wiki/sql-two-step-aggregation.md",
+    "raw/transcripts/histogram-of-tweets.md",
+    "wiki/linux-user-management.md",
+    "raw/articles/reverse-etl.md",
+    "raw/articles",
     "wiki/linux-hostname.md",
     "wiki/linux-networking.md",
     "wiki/index.md",
