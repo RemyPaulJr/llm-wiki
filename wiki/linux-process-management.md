@@ -13,6 +13,11 @@ Display information about a specific process by PID:
 ps -p <pid>
 ```
 
+Display all processes belonging to a specific user:
+```bash
+ps -u <username>
+```
+
 ### Terminating Processes
 Forcefully kill a specific process by PID:
 ```bash
