@@ -11,10 +11,14 @@
             "id": "87edd6e9eeaa1fb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "GEMINI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GEMINI"
             }
           }
         ]
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "GEMINI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of GEMINI"
             }
           },
           {
@@ -191,6 +196,8 @@
   },
   "active": "87edd6e9eeaa1fb6",
   "lastOpenFiles": [
+    "_templates/default.md",
+    "GEMINI.md",
     "wiki/index.md",
     "wiki/log.md",
     "wiki/linux-process-management.md",
@@ -198,7 +205,6 @@
     "wiki/reverse-etl.md",
     "wiki/sql-date-filtering.md",
     "wiki/sql-common-table-expressions.md",
-    "GEMINI.md",
     "wiki/sql-two-step-aggregation.md",
     "raw/transcripts/histogram-of-tweets.md",
     "wiki/linux-user-management.md",
@@ -210,7 +216,6 @@
     "wiki",
     "raw/transcripts",
     "raw",
-    "_templates/default.md",
     "inbox",
     "reference",
     "research",
