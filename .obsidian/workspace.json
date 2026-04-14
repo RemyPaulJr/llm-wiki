@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb5f91f69e83bb40",
+        "id": "8dfbc00c68065712",
         "type": "tabs",
         "children": [
           {
-            "id": "7151d5c07a28a727",
+            "id": "a89da5234fac7190",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7151d5c07a28a727",
+  "active": "a89da5234fac7190",
   "lastOpenFiles": [
     "GEMINI.md",
     "wiki/linux-user-management.md",
