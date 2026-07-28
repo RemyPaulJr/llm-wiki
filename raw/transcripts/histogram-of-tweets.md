@@ -1,4 +1,4 @@
-QL Study Notes — Histogram of Tweets
+SQL Study Notes — Histogram of Tweets
 
 **Source:** DataLemur | Also Problem #6 in *Ace the Data Science Interview* (SQL Chapter)  
 **Difficulty:** Easy  
